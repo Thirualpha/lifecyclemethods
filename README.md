@@ -36,7 +36,7 @@ Registeration Number : 212221040171
 
 ## Activity_Main.XML:
 
-
+```
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -58,13 +58,13 @@ Registeration Number : 212221040171
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-
+```
 ## MainActivity.Java:
 
 
 
 
-
+```
 
 package com.example.myapplication;
 
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 
 ## OUTPUT
 
